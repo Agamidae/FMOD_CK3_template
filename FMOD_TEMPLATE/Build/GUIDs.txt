@@ -1,0 +1,11 @@
+{108d34ae-8337-4516-a0fa-a4b80c30bb43} bank:/RENAME ME
+{8890147a-f24c-0954-26b3-2e46fdc3bddb} bank:/RENAME ME.strings
+{cb930c67-0464-4d7f-957a-a78b08fc39de} bus:/
+{0550c844-9d07-4418-be1e-1361fdcb1930} bus:/Reverb
+{454f85c5-08ac-4794-9129-c016c8f2b66a} event:/test_sound
+{8aa9f3a3-79e4-40a0-8563-c44f35a63821} vca:/Ambience
+{043b60f0-408a-4f78-831a-de3e7284ab9e} vca:/Courtroom_characters
+{256dfa69-93fb-4786-8ed7-59ed03cdc8e8} vca:/Master
+{249c71ba-1571-4079-a1a3-1aa761fadee2} vca:/Music
+{ebfae3a6-9cc4-4553-9779-426564176493} vca:/Sound Effects
+{16277d76-448d-4e04-a600-5dead5dc450f} vca:/UI

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{9f4a2761-6701-4294-8439-df9843b770c9}">
+		<property name="assetPath">
+			<value>Windows XP Error.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>22.0499992</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.9998185941043084</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8b1ada42-fb28-457d-b6b2-86105df51383}</destination>
+		</relationship>
+	</object>
+</objects>
